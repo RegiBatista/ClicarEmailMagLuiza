@@ -1,1 +1,1 @@
-# ClicarEmailMagLuiza
+# AtomacaoClicarEmailMagLuiza
